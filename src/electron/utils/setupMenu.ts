@@ -184,7 +184,7 @@ const template = ({
         label: '下载最新',
         click() {
           shell.openExternal(
-            'https://github.com/radishes-music/radishes/releases'
+            'https://wyy.2023gpt.top'
           )
         }
       },
