@@ -206,7 +206,7 @@ export const PhoneLogin = defineComponent({
 
           <div class="vchj">
             <Link
-              to="https://github.com"
+              to="https://wyy.2023gpt.top"
               external
               type="light"
             >
