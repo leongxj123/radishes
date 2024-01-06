@@ -96,7 +96,7 @@ export const Setting = defineComponent({
             class="header-window-btn"
             onClick={() => {
               window.open(
-                'https://github.com/radishes-music/radishes',
+                'https://wyy.2023gpt.top',
                 '_blank'
               )
             }}
