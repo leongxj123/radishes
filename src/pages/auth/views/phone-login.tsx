@@ -206,7 +206,7 @@ export const PhoneLogin = defineComponent({
 
           <div class="vchj">
             <Link
-              to="https://github.com/Linkontoask/radishes"
+              to="https://github.com"
               external
               type="light"
             >
