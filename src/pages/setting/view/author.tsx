@@ -7,13 +7,8 @@ export default defineComponent({
         <h2>作者</h2>
         <ul>
           <li>
-            <a href="https://github.com/little-buddy" target="_blank">
+            <a href="https://github.com" target="_blank">
               Buddy
-            </a>
-          </li>
-          <li>
-            <a href="https://github.com/Linkontoask" target="_blank">
-              Link
             </a>
           </li>
         </ul>
