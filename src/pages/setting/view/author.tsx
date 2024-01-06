@@ -7,7 +7,7 @@ export default defineComponent({
         <h2>作者</h2>
         <ul>
           <li>
-            <a href="https://github.com" target="_blank">
+            <a href="https://wyy.2023gpt.top" target="_blank">
               Buddy
             </a>
           </li>
